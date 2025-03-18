@@ -1,0 +1,20 @@
+{
+  "pages": [
+    {
+      "name": "Home",
+      "link": "/"
+    },
+    {
+      "name": "About",
+      "link": "/about"
+    },
+    {
+      "name": "Projects",
+      "link": "/projects"
+    },
+    {
+      "name": "Resume",
+      "link": "/naya_singhania_resume.pdf"
+    }
+  ]
+}

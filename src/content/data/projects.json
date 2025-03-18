@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Scrobble Quiz",
+      "description": "Test your music knowledge based on your Last.fm (music service) history! This  project uses both traditional ML and generative AI to generate relevant quiz questions for the user. I am hoping to add support for other music services in the future as well!",
+      "link": "https://github.com/raspberri05/scrobble-quiz",
+      "langs": "TypeScript,JavaScript,Python-Dark,HTML,CSS",
+      "tools": "NextJS-Dark,React-Dark,FastAPI,TailwindCSS-Dark",
+      "date": "Jan 2025 - Present",
+      "custom": {
+        "text": "View live site",
+        "link": "https://scrobblequiz.nayasinghania.com"
+      }
+    },
+    {
+      "name": "Access Finder",
+      "description": "Discover and rate locations based on their accessibility features! I am currently actively working on this project and hoping to have a minimum viable product within the next few months",
+      "link": "https://github.com/accessfinder/accessfinder",
+      "langs": "TypeScript,JavaScript,HTML,CSS,PostgreSQL-Dark",
+      "tools": "NextJS-Dark,React-Dark,Supabase-Dark,TailwindCSS-Dark",
+      "date": "Jan 2025 - Present",
+      "custom": {
+        "text": "View live site",
+        "link": "https://dev.accessfinder.org"
+      }
+    },
+    {
+      "name": "Persona.fm",
+      "description": "A full stack Next.js application that uses the Last.FM API to show users snapshots of their listening habits. This project uses OpenAI's 4o mini model to generate information about a user's listening history on Last.fm for the last 7 days.",
+      "link": "https://github.com/personafm/persona.fm",
+      "langs": "TypeScript,JavaScript,HTML,CSS,PostgreSQL-Dark",
+      "tools": "NextJS-Dark,React-Dark,Supabase-Dark,TailwindCSS-Dark",
+      "date": "June 2024 - Dec 2024"
+    },
+    {
+      "name": "Website",
+      "description": "My personal website (the one you are currently one). I maintain this as an open source project to help people get started with making their own portfolio websites.",
+      "link": "https://github.com/raspberri05/website",
+      "langs": "TypeScript,JavaScript,HTML,CSS",
+      "tools": "Astro,React-Dark,TailwindCSS-Dark",
+      "date": "Jan 2022 - Present"
+    },
+    {
+      "name": "ChairSense",
+      "description": "For wheelchair users, it can be hard to see what's behind the chair, especially when backing up or turning, which can be dangerous because there is a high potential to hit an object or person. The aim of this project is to solve that problem by creating a low-cost device that can detect obstacles and warn the wheelchair user so they don't hit objects or people. A future goal is to test this out with other wheelchair users",
+      "link": "https://github.com/raspberri05/chairSense",
+      "langs": "CPP",
+      "tools": "Arduino",
+      "date": "Sep 2021 - Dec 2021"
+    }
+  ]
+}
